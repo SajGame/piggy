@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cf3cf7a7f0dc18e40b482bcfa9b943c4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerHitSound: {fileID: 8300000, guid: 3ddbf11e3e2ee7149a44b790a84f916e, type: 3}
+  - starBreakSound: {fileID: 8300000, guid: f0624e6dc95e02e408f425edcf2f5798, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
